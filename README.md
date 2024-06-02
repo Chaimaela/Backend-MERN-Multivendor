@@ -3,7 +3,7 @@
  <ul>
         <li>Multi Vendor ecommerce website for online shopping, it's allows multi vendor features to allow sellers to sell on this website.</li>
         <li>Link to first Frontend source code: https://github.com/Ihssaneraja/FirstFrontMernMultiVendor </li>
-        <li>Link to second Frontend source code: </li>
+        <li>Link to second Frontend source code: https://github.com/Chaimaela/Dashboard-MERN-Multivendor</li>
     </ul>
 
 ## <span style="border: 2px solid navy; padding: 10px;">Main Features </span>
